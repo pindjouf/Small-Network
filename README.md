@@ -42,7 +42,7 @@ Router B WAN: 192.168.3.3/24
 
 ### Testing Connectivity & Internet Access: 
 - With ping
-<img src="assets/ping.png">
+<img src="assets/ping.png">\
 - With a website
 <img src="assets/website.png">
 
