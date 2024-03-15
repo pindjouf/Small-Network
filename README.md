@@ -33,12 +33,18 @@ This project is executed by Esaü, in collaboration with Hackers Poulette. The C
 ```
 PC-Robert: 192.168.1.10/24
 PC-Camille: 192.168.1.11/24
-PC-Renaud: 192.168.1.12/24 
+PC-Renaud: 192.168.1.12/24
+Router A LAN:192.168.1.1/24
+Router A WAN: 192.168.3.2/24
+Router B LAN:192.168.2.1/24
+Router B WAN: 192.168.3.3/24
 ```
 
 ### Testing Connectivity & Internet Access: 
-
-
+- With ping
+<img src="assets/ping.png">
+- With a website
+<img src="assets/website.png">
 
 ## Pending Tasks
 - Finalize documentation and ensure clarity in the network setup.
